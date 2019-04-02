@@ -1,4 +1,4 @@
-# Traveler
+# KickButtUI.Traveler
 
 A Xamarin.Forms version of the Traveler app to prove you can create goodlooking UI with Xamarin.Forms as talked about in my blogpost on: 
 
