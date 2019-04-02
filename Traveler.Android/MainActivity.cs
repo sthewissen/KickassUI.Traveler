@@ -10,7 +10,7 @@ using Xamarin.Forms;
 
 namespace Traveler.Droid
 {
-    [Activity(Label = "Traveler", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Label = "Traveler", Icon = "@mipmap/ic_launcher", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
@@ -22,8 +22,6 @@ namespace Traveler.Droid
 
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-
-            FFImageLoading.Forms.Platform.CachedImageRenderer.Init(false);
 
             LoadApplication(new App());
         }
