@@ -1,6 +1,6 @@
 # KickButtUI.Traveler 🙈
 
-A Xamarin.Forms version of the Traveler app to prove you can create goodlooking UI with Xamarin.Forms as talked about in my blogpost on: 
+A Xamarin.Forms version of the Traveler app to prove you can create good-looking UI with Xamarin.Forms as talked about in my blogpost on: 
 
 **Tools used**
 - MFractor – Productivity tools for Visual Studio Mac – https://www.mfractor.com/
