@@ -7,5 +7,4 @@ A Xamarin.Forms version of the Traveler app to prove you can create goodlooking 
 - LiveXAML – Live simulator updates for your XAML code – http://www.livexaml.com
 - PancakeView - Layout element with additional features - https://github.com/sthewissen/Xamarin.Forms.PancakeView
 
-<img src="https://github.com/sthewissen/KickassUI.Traveler/blob/master/ios.png" width="350px"/>
-<img src="https://github.com/sthewissen/KickassUI.Traveler/blob/master/droid.jpg" width="350px"/>
+<img src="https://github.com/sthewissen/KickassUI.Traveler/blob/master/both.png" width="700px"/>
